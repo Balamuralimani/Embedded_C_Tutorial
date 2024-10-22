@@ -13,4 +13,5 @@ This repository provides a comprehensive tutorial on Embedded C, covering essent
 - STMicroelectronics NUCLEO-F401RE NUCLEO Board
 # Software Requirements
 - STM32 Cube IDE
+  
 Ideal for students, engineers, and hobbyists looking to strengthen their skills in embedded systems programming.
